@@ -18,12 +18,11 @@ I run a [coffee-focused Instagram account](https://instagram.com/evroweonline) w
 
 I love to cook, though I don't often have as much time for it as I'd like these days. I do bust out the occasional tasty meal when time allows it, though.
 
-![4FC9628F-894A-45B0-BBF0-F54A92109EAD](https://user-images.githubusercontent.com/235133/162264069-ad3bf5a7-0470-48dc-969b-0f79e97b37bc.JPG)
-
 ### You Can Find Me Online
 
 When I _am_ `very logged on`, you can find me in the following places:
 
+- 🌐 Website: https://evrowe.com
 - 🐘 Mastodon: https://pdx.social/@evrowe
 - 💼 LinkedIn: https://www.linkedin.com/in/evrowe
 - 📸 Glass: https://glass.photo/evrowe
