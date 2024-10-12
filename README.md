@@ -23,7 +23,7 @@ I love to cook, though I don't often have as much time for it as I'd like these 
 When I _am_ `very logged on`, you can find me in the following places:
 
 * 🌐 Website: <a href="https://evrowe.com" target="_blank">https://evrowe.com</a>
-* 🐘 Mastodon: <a href="https://pdx.social/@evrowe">https://pdx.social/@evrowe</a>
+* 🐘 Mastodon: <a href="https://hachyderm.io/@evrowe" rel="me" target="_blank">https://hachyderm.io/@evrowe</a>
 * 💼 LinkedIn: <a href="https://www.linkedin.com/in/evrowe" target="_blank">https://www.linkedin.com/in/evrowe</a>
 * 📸 Glass: <a href="https://glass.photo/evrowe" target="_blank">https://glass.photo/evrowe</a>
 * ☕️ Instagram: <a href="https://instagram.com/evroweonline" target="_blank">https://instagram.com/evroweonline</a>
